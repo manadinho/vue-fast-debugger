@@ -1,0 +1,26 @@
+{
+  "name": "vue-fast-debugger",
+  "version": "1.0.0",
+  "description": "This is a package to send data to desktop application to show and debug issue",
+  "main": "index.js",
+  "vue": "vue-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manadinho/vue-fast-debugger.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "author": "Muhammad Imran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manadinho/vue-fast-debugger/issues"
+  },
+  "homepage": "https://github.com/manadinho/vue-fast-debugger#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
